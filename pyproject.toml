@@ -1,0 +1,15 @@
+[project]
+name = "Png2Ico"
+description = "Saves as Icon file"
+version = "1.2"
+license = "MIT"
+dependencies = ["Pillow>=9.5.0"]
+
+[project.urls]
+Repository = "https://github.com/Grey3016/Png2Ico"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "Grey"
+DisplayName = "Png2Ico"
+Icon = ""
