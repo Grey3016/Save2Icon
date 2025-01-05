@@ -1,17 +1,17 @@
 A Custom node to 'Save to an icon' for ComfyUI
 
-Oversight
+<ins>Oversight<ins>
 
 It saves your picture as an Icon.
 Its a small quality of life node to not have to individually adjust corners on pics, their corner transparencies and saving as an icon .
 
 
-What it does
+<ins>What it does<ins>
 
 It takes your output from the Vae-Decode node and rounds the corners (making them transparent) and save the output as an .ico (icon) file into Output/Icons folder (which it makes if it doesn't exist)
 
 
-What can I adjust ?
+<ins>What can I adjust ?<ins>
 
 1.You can change the size of the icon - 128 , 256 up to a max of 512 (default setting). I defaulted it to 512 because thats how I make them .
 
@@ -24,16 +24,16 @@ What can I adjust ?
 Personally , I join the Icon Save node with the Preview node via the 'Convert to Group Node' function
 
 
-What does it need?
+<ins>What does it need?<ins>
 
 A square ratio input (eg 1024x1024 etc) , it'll squash the pic otherwise
 
 
-Installation
+<ins>Installation<ins>
 
     git clone https://github.com/Grey3016/Save2Icon
 
-Requirements
+<ins>Requirements<ins>
 
     Pillow >= 9.0.0
 
@@ -47,7 +47,7 @@ Below : "Save To Icon" node attched to the Preview node via 'Convert To Group No
 ![image](https://github.com/user-attachments/assets/692e1fc1-726e-4591-bd89-01f11ea37cbe)
 
 
-Usage
+<ins>Usage
 
 Git Clone above and select Save to Icon node from menu. I've also attached a Comfy workflow that I use as an Icon maker flow. 
 
