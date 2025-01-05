@@ -5,9 +5,11 @@ Oversight
 It saves your picture as an Icon.
 Its a small quality of life node to not have to individually adjust corners on pics, their corner transparencies and saving as an icon .
 
+
 What it does
 
 It takes your output from the Vae-Decode node and rounds the corners (making them transparent) and save the output as an .ico (icon) file
+
 
 What can I adjust ?
 
@@ -20,6 +22,7 @@ What can I adjust ?
 4.Finally, you can adjust the corner rounding profile - remember that if you change icon size the ratio of picture to profile radius changes 
 
 Personally , I join the Icon Save node with the Preview node via the 'Convert to Group Node' function
+
 
 What does it need?
 
@@ -42,6 +45,7 @@ Below : "Save To Icon" node attached to Preview and a Text node
 Below : "Save To Icon" node attched to the Preview node via 'Convert To Group Node' function
 
 ![image](https://github.com/user-attachments/assets/692e1fc1-726e-4591-bd89-01f11ea37cbe)
+
 
 Usage
 
