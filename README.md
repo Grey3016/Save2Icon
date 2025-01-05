@@ -52,3 +52,12 @@ Usage
 Git Clone above and select Save to Icon node from menu. I've also attached a Comfy workflow that I use as an Icon maker flow. 
 
 NB I wouldn't use the word "icon" in your prompt as Flux will double round the corners, I use the word 'logo' instead. 
+
+To use these icons / how to change icons > https://www.businessinsider.com/guides/tech/how-to-change-desktop-icons
+To change the size of icons > https://support.microsoft.com/en-gb/windows/show-hide-or-resize-desktop-icons-2b9334e6-f8dc-7098-094f-7e681a87dd97
+
+
+Below : My windows desktop icons 
+
+![image](https://github.com/user-attachments/assets/a8a4494e-bceb-4419-989b-57c5da5bf83b)
+
