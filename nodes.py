@@ -17,7 +17,7 @@ class ConvertToIconNode:
             "required": {
                 "image": ("IMAGE",),  # Accepts an image input tensor
                 "filename": ("STRING", {"default": "output.ico"}),  # Output filename base
-                "size": ("INT", {"default": 256, "min": 16, "max": 512}),  # Icon size
+                "size": ("INT", {"default": 512, "min": 16, "max": 512}),  # Icon size
                 "corner_radius": ("INT", {"default": 20, "min": 1, "max": 128}),  # Corner radius for rounding
             },
         }
