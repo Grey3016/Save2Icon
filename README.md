@@ -29,6 +29,7 @@ Personally , I join the Icon Save node with the Preview node via the 'Convert to
 A square ratio input (eg 1024x1024 etc) , it'll squash the pic otherwise
 
 
+
 <ins>Installation<ins>
 
     git clone https://github.com/Grey3016/Save2Icon
