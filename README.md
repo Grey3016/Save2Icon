@@ -8,7 +8,7 @@ Its a small quality of life node to not have to individually adjust corners on p
 
 <ins>What it does<ins>
 
-It takes your output from the Vae-Decode node and rounds the corners (making them transparent) and save the output as an .ico (icon) file into Output/Icons folder (which it makes if it doesn't exist)
+It takes your output from the Vae-Decode node and rounds the corners (making them transparent) and saves the output as an .ico (icon) file into Output/Icons folder (which it makes if it doesn't exist)
 
 
 <ins>What can I adjust ?<ins>
