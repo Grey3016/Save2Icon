@@ -1,4 +1,4 @@
-A Custom node to 'Save to an icon' for ComfyUI
+A Custom node to 'Save to an icon' for ComfyUI - 100% made by ChatGPT, I take no responsibility as to it use or outcomes.
 
 <ins>Oversight<ins>
 
