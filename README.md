@@ -45,7 +45,7 @@ Below : "Save To Icon" node attached to Preview and a Text node (showing as if t
 ![Screenshot 2025-01-05 171001](https://github.com/user-attachments/assets/c9d8a05c-cffc-4039-a681-30dc6b811cdf)
 
 
-Below : "Save To Icon" node attched to the Preview node via 'Convert To Group Node' function (showing as part of the attached workflow)
+Below : "Save To Icon" node attached to the Preview node via 'Convert To Group Node' function (showing as part of the attached workflow)
 
 
 ![image](https://github.com/user-attachments/assets/c9ee328c-73dc-4fe7-9ff6-1d351e71416a)
@@ -59,6 +59,7 @@ Git Clone above and using it in a flow, add a preview node (select both nodes) a
 NB I wouldn't use the word "icon" in your prompt as Flux will double round the corners, I use the word 'logo' instead. 
 
 To use these icons / how to change icons > https://www.businessinsider.com/guides/tech/how-to-change-desktop-icons
+
 To change the size of icons on your desktop > https://support.microsoft.com/en-gb/windows/show-hide-or-resize-desktop-icons-2b9334e6-f8dc-7098-094f-7e681a87dd97
 
 
