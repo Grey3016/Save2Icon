@@ -40,12 +40,12 @@ A square ratio input (eg 1024x1024 etc) , it'll squash the pic otherwise
 
     
 
-Below : "Save To Icon" node attached to Preview and a Text node (
+Below : "Save To Icon" node attached to Preview and a Text node (showing as if the node was added to any existing workflow)
 
 ![Screenshot 2025-01-05 171001](https://github.com/user-attachments/assets/c9d8a05c-cffc-4039-a681-30dc6b811cdf)
 
 
-Below : "Save To Icon" node attched to the Preview node via 'Convert To Group Node' function (this is part of the attached workflow)
+Below : "Save To Icon" node attched to the Preview node via 'Convert To Group Node' function (showing as part of the attached workflow)
 
 
 ![image](https://github.com/user-attachments/assets/a2900bba-3c7f-49ea-abff-426c093d9d44)
