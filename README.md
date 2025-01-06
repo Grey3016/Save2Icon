@@ -40,7 +40,7 @@ A square ratio input (eg 1024x1024 etc) , it'll squash the pic otherwise
 
     
 
-Below : "Save To Icon" node attached to Preview and a Text node
+Below : "Save To Icon" node attached to Preview and a Text node (
 
 ![Screenshot 2025-01-05 171001](https://github.com/user-attachments/assets/c9d8a05c-cffc-4039-a681-30dc6b811cdf)
 
