@@ -45,9 +45,10 @@ Below : "Save To Icon" node attached to Preview and a Text node
 ![Screenshot 2025-01-05 171001](https://github.com/user-attachments/assets/c9d8a05c-cffc-4039-a681-30dc6b811cdf)
 
 
-Below : "Save To Icon" node attched to the Preview node via 'Convert To Group Node' function
+Below : "Save To Icon" node attched to the Preview node via 'Convert To Group Node' function (this is part of the attached workflow)
 
-![image](https://github.com/user-attachments/assets/692e1fc1-726e-4591-bd89-01f11ea37cbe)
+
+![image](https://github.com/user-attachments/assets/a2900bba-3c7f-49ea-abff-426c093d9d44)
 
 
 <ins>Usage
